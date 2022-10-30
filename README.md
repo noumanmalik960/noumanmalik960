@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nouman.
-- 👀 I’m interested in ReactJS/React Native, GatsbyJS, JAMstack and AWS.
-- 🌱 Currently learning AWS CDK.
-- 💞️ I’m looking to collaborate on ReactJS/JAMstack projects.
+- 👀 I’m interested in ReactJS/React Native and NodeJS.
+- 🌱 Currently learning Web 3.0
+- 💞️ I’m looking to collaborate on ReactJS/NextJS/React Native projects.
 - 📫 You can reach me at noumanmalik960@gmail.com
