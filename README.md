@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nouman.
-- 👀 I’m interested in ReactJS/React Native and NodeJS.
-- 🌱 Currently learning Web 3.0
-- 💞️ I’m looking to collaborate on ReactJS/NextJS/React Native projects.
+- 👀 I work in React.js, Next.js, React Native mainly
+- 🌱 Currently building bayqi.com
+- 💞️ I’m looking to collaborate on React.js/React Native projects.
 - 📫 You can reach me at noumanmalik960@gmail.com
