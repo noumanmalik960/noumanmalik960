@@ -3,4 +3,4 @@
 - 🌱 Currently building bayqi.com
 - 💞️ I’m looking to collaborate on React.js/.NET projects.
 - 📫 You can reach me at noumanmalik960@gmail.com
-- https://www.self.so/nouman-javed
+- 👨 https://www.self.so/nouman-javed
