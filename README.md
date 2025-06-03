@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nouman.
-- 👀 I work in React.js, Next.js, React Native mainly
+- 👀 I work in React.js, Next.js, and .NET
 - 🌱 Currently building bayqi.com
-- 💞️ I’m looking to collaborate on React.js/React Native projects.
+- 💞️ I’m looking to collaborate on React.js/.NET projects.
 - 📫 You can reach me at noumanmalik960@gmail.com
